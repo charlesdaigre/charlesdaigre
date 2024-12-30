@@ -1,17 +1,41 @@
-## Hi there 👋
-"Data analyst with a passion for transforming raw data into actionable insights. Experienced in Python, SQL, Power BI, and machine learning techniques. Currently working on sports analytics, including NFL data analysis and predictive modeling for health metrics. Always eager to explore new challenges and enhance my skills."
+# Hi there! 👋  
 
-📚 **Projects**
+I'm a **data analyst** passionate about transforming raw data into actionable insights.  
+With expertise in **Python**, **SQL**, **Power BI**, and **machine learning techniques**, I bring data to life through analysis, modeling, and visualization.  
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/charlesdaigre/Charles-Portofolio).
+🌟 **What I’m Working On**  
+- **Sports Analytics:** Exploring NFL data to uncover trends and insights.  
+- **Health Metrics Modeling:** Developing predictive models for fatigue and recovery using physiological data.  
+- Always eager to tackle new challenges and refine my skills.  
 
-🛠️ **Tools**
+---
 
-**Language**: SQL, Python
+## 📚 **Projects**  
 
-**Database**: Google BigQuery
+Welcome to my portfolio! Check out my [projects](https://github.com/charlesdaigre/Charles-Portofolio), where I showcase:  
+- Sales analysis and forecasting for businesses.  
+- Predictive modeling using health data.  
+- Sports performance analysis and visualizations.  
 
-**Visualization**: PowerBI, Looker Studio
+---
+
+## 🛠️ **Tools & Technologies**  
+
+### **Languages**  
+- Python 🐍  
+- SQL 🛢️  
+
+### **Databases**  
+- Google BigQuery 🌐  
+
+### **Visualization Tools**  
+- Power BI 📊  
+- Looker Studio 🎨  
+
+---
+
+🚀 Let’s connect and turn data into stories that matter!  
+
 <!--
 **charlesdaigre/charlesdaigre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
