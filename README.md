@@ -1,7 +1,7 @@
 # Hi there! 👋  
 
 I'm a **data analyst** passionate about transforming raw data into actionable insights.  
-With expertise in **Python**, **SQL**, **Power BI**, and **machine learning techniques**, I bring data to life through analysis, modeling, and visualization.  
+With expertise in **Python**, **Power BI**, and **Google Sheets**, I bring data to life through analysis, modeling, and visualization.  
 
 🌟 **What I’m Working On**  
 - **Sports Analytics:** Exploring NFL data to uncover trends and insights.  
@@ -24,9 +24,18 @@ Welcome to my portfolio! Check out my [projects](https://github.com/charlesdaigr
 ### **Languages**  
 - Python 🐍  
 - SQL 🛢️  
+- Jupyter 📓  
+- Pandas 🐼  
+- Scikit-learn 🤖  
+- Plotly 📊  
+- Google Colab ☁️  
 
-### **Databases**  
+### **Databases & Tools**  
+- DBT (Data Build Tool) 🔧  
+- Fivetran 🔄  
+- Zapier ⚡  
 - Google BigQuery 🌐  
+- Google Sheets 📊  
 
 ### **Visualization Tools**  
 - Power BI 📊  
@@ -35,6 +44,7 @@ Welcome to my portfolio! Check out my [projects](https://github.com/charlesdaigr
 ---
 
 🚀 Let’s connect and turn data into stories that matter!  
+
 
 <!--
 **charlesdaigre/charlesdaigre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
